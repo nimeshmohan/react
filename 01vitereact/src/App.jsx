@@ -1,10 +1,10 @@
-
+import HelloWorld from "./helloworld"
 
 function App() {
   
 
   return (
-    <h1>vite react</h1>
+    <HelloWorld />
   )
 }
 
